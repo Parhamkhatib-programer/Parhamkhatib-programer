@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parhamkhatib-programer
-- 👀 I’m interested in web design develope
+- 👀 I’m interested in frontend web design developing ...
 - 🌱 I’m currently learning html/css
 - 📫 How to reach me , please email me on khatibparham@gmail.com
 
